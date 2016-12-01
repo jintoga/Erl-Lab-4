@@ -1,0 +1,5 @@
+net_adm:ping('game@DAT-PC').
+net_adm:ping('tanker@DAT-PC').
+net_adm:ping('boss@DAT-PC').
+net_adm:ping('archer@DAT-PC').
+net_adm:ping('healer@DAT-PC').
